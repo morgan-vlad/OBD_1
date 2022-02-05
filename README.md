@@ -7,6 +7,7 @@ https://forum.arduino.cc/index.php?topic=237539.0
 http://www.carina-e.ru/viewtopic.php?f=6&t=1145
 https://corona-club.ru/
 проделали огромную работу по расшифровке протокола. 
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/alekseydegtyarev1986)
+За основу взят код у https://github.com/hyperion11/toyota-obd-1, появилась возможность добавить русские символы в lsd модуль
+Для замены на русский язык в строках u8g.setFont(u8g_font_profont15r); заменить шрифт u8g_font_profont15r на rus6x10
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](//)
 
